@@ -1,6 +1,6 @@
 # SqaureCTF2019
 
-![Image description](link-to-image)
+![Image description](https://github.com/bigb0ss-offsec/CTF/blob/master/SquareCTF2019/squareCTF2019.png)
 
 ### Challenges
 | | Name | Points | Category | Write-up |
