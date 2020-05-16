@@ -2,6 +2,7 @@
 
 ### Pwn
 * Pwn-tips - https://github.com/Naetw/CTF-pwn-tips
+* Pwnshop - https://github.com/alanvivona/pwnshop (Good blogs!)
 
 ### Reversing
 * Reversing.kr - http://reversing.kr/
