@@ -8,12 +8,11 @@
 * Reversing.kr - http://reversing.kr/
 
 ## Exploit Development/Binary Exploitation
-* boku - https://boku7.github.io/ (He is dope)
-
+* Exploit-Exercise - https://exploit-exercises.lains.space/
 
 ## Learning
 * CTF101 - https://ctf101.org/
-* Exploit-Exercise - https://exploit-exercises.lains.space/
+* boku - https://boku7.github.io/ (All about binary exploitation and ExpDev)
 
 
 
